@@ -122,13 +122,6 @@ L'utilisateur peut supprimer ses propres notes.
 
 # Partie administrateur
 
-## Tableau de bord administrateur
-
-Le tableau de bord permet d'avoir une vue générale de l'application, notamment :
-
-- Le nombre d'utilisateurs.
-- Le nombre d'espèces.
-
 ## Gestion des espèces
 
 L'administrateur peut :
@@ -172,6 +165,9 @@ Le tableau de bord pourrait afficher :
 
 - Valider les espèces ajoutées par les utilisateurs.
 - Désactiver un compte utilisateur.
+- Tableau de bord administrateur
+
+Le tableau de bord permet d'avoir une vue générale de l'application, notamment : Le nombre d'utilisateurs et le nombre d'espèces.
 
 ---
 
