@@ -28,7 +28,7 @@ $results = $stmt->fetchAll();
 </head>
 
 <body>
-    <h1>ProgServ2 Course PHP Template test</h1>
+    <h1>ProgServ2 Course PHP Template</h1>
 
     <p>Bienvenue dans votre projet PHP pour le cours ProgServ2 à la HEIG-VD !</p>
 
