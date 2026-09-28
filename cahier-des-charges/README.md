@@ -83,7 +83,7 @@ L'utilisateur peut :
 
 ## Gestion du profil
 
-L'utilisateur peut :
+L'utilisateur connecté peut :
 
 - Consulter son profil.
 - Modifier ses informations personnelles.
@@ -91,13 +91,15 @@ L'utilisateur peut :
 
 ## Journal personnel
 
-L'utilisateur peut :
+L'utilisateur connecté peut :
 
 - Consulter ses notes.
 - Voir ses notes classées par date.
-- Consulter le détail d'une note.
+- Consulter le détail d'une de ses notes.
 
 ## Créer une note d'observation
+
+L'utilisateur connecté peut créer une note d'observation.
 
 Une note contient notamment :
 
@@ -112,11 +114,11 @@ Les espèces observées peuvent être sélectionnées parmi celles présentes da
 
 ## Modifier une note
 
-L'utilisateur peut modifier ses propres notes.
+L'utilisateur connecté peut modifier ses propres notes.
 
 ## Supprimer une note
 
-L'utilisateur peut supprimer ses propres notes.
+L'utilisateur connecté peut supprimer ses propres notes.
 
 ---
 
